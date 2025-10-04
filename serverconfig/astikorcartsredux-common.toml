@@ -5,7 +5,7 @@
 	[carts.supply_cart]
 		#Entity that are able to pull this cart, such as ["minecraft:horse"]
 		#An empty list defaults to all which may wear a saddle but not steered by an item
-		pull_animals = []
+		pull_animals = ["minecraft:horse", "minecraft:camel", "minecraft:lama"]
 		#Slow speed modifier toggled by the sprint key
 		# Default: -0.65
 		# Range: -1.0 ~ 0.0
@@ -19,7 +19,7 @@
 	[carts.animal_cart]
 		#Entity that are able to pull this cart, such as ["minecraft:horse"]
 		#An empty list defaults to all which may wear a saddle but not steered by an item
-		pull_animals = []
+		pull_animals = ["minecraft:horse", "minecraft:camel", "minecraft:lama"]
 		#Slow speed modifier toggled by the sprint key
 		# Default: -0.65
 		# Range: -1.0 ~ 0.0
@@ -33,7 +33,7 @@
 	[carts.plow]
 		#Entity that are able to pull this cart, such as ["minecraft:horse"]
 		#An empty list defaults to all which may wear a saddle but not steered by an item
-		pull_animals = []
+		pull_animals = ["minecraft:horse", "minecraft:camel", "minecraft:lama"]
 		#Slow speed modifier toggled by the sprint key
 		# Default: -0.65
 		# Range: -1.0 ~ 0.0
@@ -61,7 +61,7 @@
 	[carts.seedDrill]
 		#Entity that are able to pull this cart, such as ["minecraft:horse"]
 		#An empty list defaults to all which may wear a saddle but not steered by an item
-		pull_animals = []
+		pull_animals = ["minecraft:horse", "minecraft:camel", "minecraft:lama"]
 		#Slow speed modifier toggled by the sprint key
 		# Default: -0.65
 		# Range: -1.0 ~ 0.0
@@ -75,7 +75,7 @@
 	[carts.reaper]
 		#Entity that are able to pull this cart, such as ["minecraft:horse"]
 		#An empty list defaults to all which may wear a saddle but not steered by an item
-		pull_animals = []
+		pull_animals = ["minecraft:horse", "minecraft:camel", "minecraft:lama"]
 		#Slow speed modifier toggled by the sprint key
 		# Default: -0.65
 		# Range: -1.0 ~ 0.0
