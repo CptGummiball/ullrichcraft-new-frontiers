@@ -5,6 +5,9 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 ---
 ## unreleased – 2025-10-02
 ### Client
+- added mod [JEP](https://modrinth.com/mod/just-enough-professions-jep)
+- added mod [JER](https://modrinth.com/mod/just-enough-resources-jer)
+- added mod [JEBr](https://modrinth.com/mod/justenoughbreeding)
 
 ### Server
 - added mod [PermNodes](https://github.com/CptGummiball/PermNodes)
@@ -12,10 +15,6 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - added mod [AFK Sit](https://modrinth.com/datapack/afk-sit)
 - added mod [AFK Sleep](https://modrinth.com/datapack/afk-sleep)
 - added mod [AFK Dim Names](https://modrinth.com/datapack/afk-dim-names)
-- added mod [JEP](https://modrinth.com/mod/just-enough-professions-jep)
-- added mod [JER](https://modrinth.com/mod/just-enough-resources-jer)
-- added mod [JEBr](https://modrinth.com/mod/justenoughbreeding)
-
 
 ---
 
