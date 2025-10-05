@@ -3,8 +3,9 @@ All notable changes to **Ullrichcraft – New Frontiers** will be documented in 
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
 ---
-## unreleased – 2025-10-02
+## a7 – 2025-10-02
 ### Client
+- readded Server Buttons
 - added mod [JEP](https://modrinth.com/mod/just-enough-professions-jep)
 - added mod [JER](https://modrinth.com/mod/just-enough-resources-jer)
 - added mod [JEBr](https://modrinth.com/mod/justenoughbreeding)
