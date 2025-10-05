@@ -7,6 +7,7 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 ### Client
 
 ### Server
+- added mod [PermNodes](https://github.com/CptGummiball/PermNodes)
 - added mod [Detect AFK Players](https://modrinth.com/datapack/detect-afk)
 - added mod [AFK Sit](https://modrinth.com/datapack/afk-sit)
 - added mod [AFK Sleep](https://modrinth.com/datapack/afk-sleep)
