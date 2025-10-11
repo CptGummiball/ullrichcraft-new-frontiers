@@ -2,7 +2,14 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
+## a8 – 2025-10-11
+### Client
+- removed Critter Armory
+
+### Server
+- removed Critter Armory
 ---
+
 ## a7 – 2025-10-02
 ### Client
 - readded Server Buttons
