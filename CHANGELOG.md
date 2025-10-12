@@ -4,17 +4,21 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 
 ## a8 – 2025-10-12
 ### Client
+- Updated Neoforge from `21.8.46` to `21.8.47`
 - added [Serene Seasons](https://modrinth.com/mod/serene-seasons)
 - added [Tough As Nails](https://modrinth.com/mod/tough-as-nails)
-- added [GlitchCore](https://modrinth.com/mod/glitchcore) - dependency for Serene Seasons and Tough As Nails
+- added [Sticky Enchanting Lapis](https://modrinth.com/mod/sticky-enchanting-lapis)
+- added [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)
+- added [Prickle](https://modrinth.com/mod/prickle) - as dependency for Enchantment Descriptions
 - removed Critter Armory
 
 ### Server
-- removed Critter Armory
+- Updated Neoforge from `21.8.46` to `21.8.47`
+- added mod [JEP](https://modrinth.com/mod/just-enough-professions-jep)
 - added [Serene Seasons](https://modrinth.com/mod/serene-seasons)
 - added [Tough As Nails](https://modrinth.com/mod/tough-as-nails)
-- added [GlitchCore](https://modrinth.com/mod/glitchcore) - dependency for Serene Seasons and Tough As Nails
-
+- added [Sticky Enchanting Lapis](https://modrinth.com/mod/sticky-enchanting-lapis)
+- 
 ---
 
 ## a7 – 2025-10-02
