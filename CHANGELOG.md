@@ -2,12 +2,19 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
-## a8 – 2025-10-11
+## a8 – 2025-10-12
 ### Client
+- added [Serene Seasons](https://modrinth.com/mod/serene-seasons)
+- added [Tough As Nails](https://modrinth.com/mod/tough-as-nails)
+- added [GlitchCore](https://modrinth.com/mod/glitchcore) - dependency for Serene Seasons and Tough As Nails
 - removed Critter Armory
 
 ### Server
 - removed Critter Armory
+- added [Serene Seasons](https://modrinth.com/mod/serene-seasons)
+- added [Tough As Nails](https://modrinth.com/mod/tough-as-nails)
+- added [GlitchCore](https://modrinth.com/mod/glitchcore) - dependency for Serene Seasons and Tough As Nails
+
 ---
 
 ## a7 – 2025-10-02
