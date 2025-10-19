@@ -2,6 +2,21 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
+## a9 – unreleased
+### Client
+- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) (Because of really annoying problems on the server)
+- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
+- added [Tool Trims](https://modrinth.com/datapack/tool-trims)
+- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
+
+### Server
+- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) (Because of really annoying problems on the server)
+- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
+- added [Tool Trims](https://modrinth.com/datapack/tool-trims)
+- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
+- 
+---
+
 ## a8 – 2025-10-12
 ### Client
 - Updated Neoforge from `21.8.46` to `21.8.47`
