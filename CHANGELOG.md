@@ -2,23 +2,25 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
-## a9 – unreleased
+## 0.1 – 2025-10-19
 ### Client
-- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) (Because of really annoying problems on the server)
-- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
-- added [Tool Trims](https://modrinth.com/datapack/tool-trims)
-- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
-- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier)
+- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) – Removed due to major synchronization and performance issues that caused server instability.  
+- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle) – Expands farming and cooking gameplay, making food progression more engaging and better connected to survival.
+- added [Tool Trims](https://modrinth.com/datapack/tool-trims) – Adds more visual and creative customization to tools, improving player expression.  
+- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify) – Introduces new accessory slots to add depth and flexibility to gear setups.  
+- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier) – Makes fishing a more rewarding and balanced activity with improved progression and loot variety.  
+- added [Snatched](https://modrinth.com/mod/snatched) – Adds new player interaction mechanics that make gameplay more dynamic and fun in multiplayer.  
 
 ### Server
-- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) (Because of really annoying problems on the server)
-- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
-- added [Tool Trims](https://modrinth.com/datapack/tool-trims)
-- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
-- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier)
+- removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) – Removed to prevent desyncs and other technical issues affecting stability.  
+- added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle) – Improves the overall farming and cooking balance on the server.  
+- added [Tool Trims](https://modrinth.com/datapack/tool-trims) – Ensures consistent customization and player expression across clients.  
+- added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify) – Enhances gear variety and multiplayer compatibility.  
+- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier) – Brings more variety and meaningful progression to fishing for all players.  
+- added [Snatched](https://modrinth.com/mod/snatched) – Adds new gameplay options and interactions that enhance multiplayer experiences.  
 
 ### NOTE
-The next update will take some time, as we are now taking care of recipe overlaps and compatibilities between individual mods
+The next update will take some time, as we are now working on recipe overlaps and compatibility adjustments between the newly added mods and datapacks.
 
 ---
 
