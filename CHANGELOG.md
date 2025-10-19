@@ -8,13 +8,18 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
 - added [Tool Trims](https://modrinth.com/datapack/tool-trims)
 - added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
+- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier)
 
 ### Server
 - removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) (Because of really annoying problems on the server)
 - added [Crop & Kettle](https://modrinth.com/datapack/crop-and-kettle)
 - added [Tool Trims](https://modrinth.com/datapack/tool-trims)
 - added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify)
-- 
+- added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier)
+
+### NOTE
+The next update will take some time, as we are now taking care of recipe overlaps and compatibilities between individual mods
+
 ---
 
 ## a8 – 2025-10-12
