@@ -9,7 +9,6 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - added [Tool Trims](https://modrinth.com/datapack/tool-trims) – Adds more visual and creative customization to tools, improving player expression.  
 - added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify) – Introduces new accessory slots to add depth and flexibility to gear setups.  
 - added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier) – Makes fishing a more rewarding and balanced activity with improved progression and loot variety.  
-- added [Snatched](https://modrinth.com/mod/snatched) – Adds new player interaction mechanics that make gameplay more dynamic and fun in multiplayer.  
 
 ### Server
 - removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) – Removed to prevent desyncs and other technical issues affecting stability.  
@@ -17,7 +16,6 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - added [Tool Trims](https://modrinth.com/datapack/tool-trims) – Ensures consistent customization and player expression across clients.  
 - added [Accessories](https://modrinth.com/mod/accessories) & [Accessorify](https://modrinth.com/mod/accessorify) – Enhances gear variety and multiplayer compatibility.  
 - added [Fishing Frontier](https://modrinth.com/datapack/fishing-frontier) – Brings more variety and meaningful progression to fishing for all players.  
-- added [Snatched](https://modrinth.com/mod/snatched) – Adds new gameplay options and interactions that enhance multiplayer experiences.  
 
 ### NOTE
 The next update will take some time, as we are now working on recipe overlaps and compatibility adjustments between the newly added mods and datapacks.
