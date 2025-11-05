@@ -19,6 +19,7 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - [RuneCraft](https://modrinth.com/mod/runecraft)
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
 - Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven)
+- [Comforts](https://modrinth.com/mod/comforts)
 
 ### Server
 
