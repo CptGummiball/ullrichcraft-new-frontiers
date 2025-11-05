@@ -2,6 +2,32 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
+## 0.1.1 – Unreleased
+### Client
+**Updates:**
+- Changed Neoforge to 21.10.47-beta
+- Changed Minecraft to 1.21.10
+- Updated all  neccessary mods
+
+**Fixes:**
+- Fixed some Recipe issues (Next step will be group items with same use from different mods)
+
+**Content added:**
+- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
+- [Plushables](https://modrinth.com/mod/plushables)
+- [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
+- [RuneCraft](https://modrinth.com/mod/runecraft)
+- [Infused Foods](https://modrinth.com/mod/infused-foods)
+- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven)
+
+### Server
+
+
+### NOTE
+
+
+---
+
 ## 0.1 – 2025-10-19
 ### Client
 - removed [Serene Seasons](https://modrinth.com/mod/serene-seasons) – Removed due to major synchronization and performance issues that caused server instability.  
