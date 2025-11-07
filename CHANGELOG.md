@@ -13,13 +13,17 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - Fixed some Recipe issues (Next step will be group items with same use from different mods)
 
 **Content added:**
+- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) - Tweak for Anvils (Early Part of the Forged in Steel Update)
 - [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
 - [Plushables](https://modrinth.com/mod/plushables)
 - [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
-- [RuneCraft](https://modrinth.com/mod/runecraft)
+- [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
-- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven)
+- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven) - [Sea Otter](https://modrinth.com/mod/animal-garden-sea-otter)
 - [Comforts](https://modrinth.com/mod/comforts)
+- [Snatched](https://modrinth.com/mod/snatched)
+- [Neo Enchant+](https://modrinth.com/mod/neoenchant) - Early Part of the Forged in Steel Update
+- [Ancient Artifacts 2](https://modrinth.com/mod/ancient-artifacts-2) - Early Part of the Forged in Steel Update
 
 ### Server
 
