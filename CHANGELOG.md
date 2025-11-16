@@ -2,7 +2,7 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
-## 0.1.1 – Unreleased
+## 0.1.2 – Unreleased
 ### Client
 **Updates:**
 - Changed Neoforge to 21.10.47-beta
@@ -13,20 +13,61 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - Fixed some Recipe issues (Next step will be group items with same use from different mods)
 
 **Content added:**
-- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) - Tweak for Anvils (Early Part of the Forged in Steel Update)
 - [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
 - [Plushables](https://modrinth.com/mod/plushables)
 - [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
 - [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
-- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven) - [Sea Otter](https://modrinth.com/mod/animal-garden-sea-otter)
-- [Comforts](https://modrinth.com/mod/comforts)
-- [Snatched](https://modrinth.com/mod/snatched)
-- [Neo Enchant+](https://modrinth.com/mod/neoenchant) - Early Part of the Forged in Steel Update
-- [Ancient Artifacts 2](https://modrinth.com/mod/ancient-artifacts-2) - Early Part of the Forged in Steel Update
 
 ### Server
 
+
+### NOTE
+
+
+---
+
+## 0.1.1 – 2025-11-16
+### Client
+
+**Updates:**
+- Changed Neoforge to 21.8.51
+- Updated all neccessary mods
+
+**Fixes:**
+- Fixed some Recipe issues (Next step will be group items with same use from different mods)
+
+**Content added:**
+- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) - Tweak for Anvils (Early Part of the Forged in Steel Update)
+- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven) - [Sea Otter](https://modrinth.com/mod/animal-garden-sea-otter)
+- [Comforts](https://modrinth.com/mod/comforts)
+- [Neo Enchant+](https://modrinth.com/mod/neoenchant) - Early Part of the Forged in Steel Update
+- [Ancient Artifacts 2](https://modrinth.com/mod/ancient-artifacts-2) - Early Part of the Forged in Steel Update
+- [Charcoal Blocks](https://modrinth.com/mod/charcoal-blocks) + [Tiny Coal & Tiny Charcoal](https://modrinth.com/mod/tinycoal)
+
+**Content Removed:**
+- [Model Gap Fix](https://modrinth.com/mod/modelfix) - No longer Compatible with our modpack
+- Secret Button
+
+**Graphical Changes:**
+- added [Immersive Interfaces](https://modrinth.com/resourcepack/shrimps-immersive-interfaces) + Extensions
+
+### Server
+
+**Updates:**
+- Changed Neoforge to 21.8.51
+- Updated all neccessary mods
+
+**Fixes:**
+- Fixed some Recipe issues (Next step will be group items with same use from different mods)
+- 
+**Content added:**
+- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) - Tweak for Anvils (Early Part of the Forged in Steel Update)
+- Animal Garden - [Owl](https://modrinth.com/mod/animal-garden-owl) - [Red Panda](https://modrinth.com/mod/animal-garden-red-panda) - [Spotted Hyena](https://modrinth.com/mod/animal-garden-spotted-hyena) - [Common Raven](https://modrinth.com/mod/animal-garden-common-raven) - [Sea Otter](https://modrinth.com/mod/animal-garden-sea-otter)
+- [Comforts](https://modrinth.com/mod/comforts)
+- [Neo Enchant+](https://modrinth.com/mod/neoenchant) - Early Part of the Forged in Steel Update
+- [Ancient Artifacts 2](https://modrinth.com/mod/ancient-artifacts-2) - Early Part of the Forged in Steel Update
+- [Charcoal Blocks](https://modrinth.com/mod/charcoal-blocks) + [Tiny Coal & Tiny Charcoal](https://modrinth.com/mod/tinycoal)
 
 ### NOTE
 
