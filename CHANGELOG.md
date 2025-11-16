@@ -2,41 +2,24 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
-## 0.1.3 – Unreleased
-### Client
-**Updates:**
-- Changed Neoforge to 21.10.47-beta
-- Changed Minecraft to 1.21.10
-- Updated all  neccessary mods
-
-**Fixes:**
-- Fixed some Recipe issues (Next step will be group items with same use from different mods)
-
-**Content added:**
-- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
-- [Plushables](https://modrinth.com/mod/plushables)
-- [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
-- [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
-- [Infused Foods](https://modrinth.com/mod/infused-foods)
-
-### Server
-
-
-### NOTE
-
-
 ---
 
 ## 0.1.2 – Unreleased
 ### Client
 **Updates:**
-- Changed Neoforge to 21.10.47-beta
+- Changed Neoforge to 21.10.52-beta
 - Updated all  neccessary mods
 
 **Fixes:**
 - Fixed more Recipe issues
 
 **Content added:**
+- [Infused Foods](https://modrinth.com/mod/infused-foods)
+- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
+- [Plushables](https://modrinth.com/mod/plushables)
+- [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
+- [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
+- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
 - [Advanced Loot Info](https://modrinth.com/mod/advanced-loot-info)
 
 ### Server
