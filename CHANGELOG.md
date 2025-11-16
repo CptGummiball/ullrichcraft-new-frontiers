@@ -2,7 +2,7 @@
 All notable changes to **Ullrichcraft – New Frontiers** will be documented in this file.  
 This project follows a simplified [Keep a Changelog](https://keepachangelog.com/) format.
 
-## 0.1.2 – Unreleased
+## 0.1.3 – Unreleased
 ### Client
 **Updates:**
 - Changed Neoforge to 21.10.47-beta
@@ -18,6 +18,26 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
 - [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
+
+### Server
+
+
+### NOTE
+
+
+---
+
+## 0.1.2 – Unreleased
+### Client
+**Updates:**
+- Changed Neoforge to 21.10.47-beta
+- Updated all  neccessary mods
+
+**Fixes:**
+- Fixed more Recipe issues
+
+**Content added:**
+- [Advanced Loot Info](https://modrinth.com/mod/advanced-loot-info)
 
 ### Server
 
