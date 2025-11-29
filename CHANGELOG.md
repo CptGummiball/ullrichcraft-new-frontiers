@@ -4,10 +4,11 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 
 ---
 
-## 0.1.2 – Unreleased
+## 0.1.7 – Unreleased
 ### Client
 **Updates:**
-- Changed Neoforge to 21.10.52-beta
+- Changed Neoforge to 21.10.53-beta
+- Changed Minecraft Version to 1.21.10
 - Updated all  neccessary mods
 
 **Fixes:**
@@ -16,17 +17,22 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 **Content added:**
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
 - [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
+- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - for more Decorration and to complete the Macaw's Set of Mods
 - [Plushables](https://modrinth.com/mod/plushables)
 - [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
 - [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
-- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
 - [Advanced Loot Info](https://modrinth.com/mod/advanced-loot-info)
+- [Collectibles](https://modrinth.com/mod/collectibles)
+- [Advanced Tools](https://modrinth.com/mod/advanced-tools) - Early Part of the Forged in Steel Update
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) - Early Part of the Forged in Steel Update
+- [Animal Garden - Sugar Glider](https://modrinth.com/mod/animal-garden-sugar-glider)
+- [Pufferfish's Skills](https://modrinth.com/mod/skills) - First Skilltrees for future updates
 
 ### Server
 
 
 ### NOTE
-
+All mods that are added for future updates are not configured at the moment!
 
 ---
 
