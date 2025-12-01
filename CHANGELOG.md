@@ -27,6 +27,7 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 - [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) - Early Part of the Forged in Steel Update
 - [Animal Garden - Sugar Glider](https://modrinth.com/mod/animal-garden-sugar-glider)
 - [Pufferfish's Skills](https://modrinth.com/mod/skills) - First Skilltrees for future updates
+- [Immersive Winds](https://modrinth.com/mod/immersive-winds)
 
 ### Server
 
