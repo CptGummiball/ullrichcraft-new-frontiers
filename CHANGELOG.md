@@ -5,38 +5,127 @@ This project follows a simplified [Keep a Changelog](https://keepachangelog.com/
 ---
 
 ## 0.1.7 – Unreleased
+
 ### Client
+
 **Updates:**
-- Changed Neoforge to 21.10.53-beta
-- Changed Minecraft Version to 1.21.10
-- Updated all  neccessary mods
+- Changed NeoForge to **21.10.64**
+- Changed Minecraft Version to **1.21.10**
+- Updated all necessary mods to ensure full **1.21.10 compatibility**
 
 **Fixes:**
-- Fixed more Recipe issues
+- Fixed more recipe issues
+- Fixed multiple internal incompatibilities caused by the Minecraft / NeoForge version bump
 
 **Content added:**
 - [Infused Foods](https://modrinth.com/mod/infused-foods)
-- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + it's modules
-- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - for more Decorration and to complete the Macaw's Set of Mods
+- [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture) + all available modules
+- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) – for more decoration and to complete the Macaw’s mod set
 - [Plushables](https://modrinth.com/mod/plushables)
 - [Better Hanging Signs](https://modrinth.com/datapack/better-hanging-signs)
-- [RuneCraft](https://modrinth.com/mod/runecraft) - Early Part of the Forged in Steel Update
+- [RuneCraft](https://modrinth.com/mod/runecraft) – early part of the *Forged in Steel* update
 - [Advanced Loot Info](https://modrinth.com/mod/advanced-loot-info)
 - [Collectibles](https://modrinth.com/mod/collectibles)
-- [Advanced Tools](https://modrinth.com/mod/advanced-tools) - Early Part of the Forged in Steel Update
-- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) - Early Part of the Forged in Steel Update
-- [Animal Garden - Sugar Glider](https://modrinth.com/mod/animal-garden-sugar-glider)
-- [Pufferfish's Skills](https://modrinth.com/mod/skills) - First Skilltrees for future updates
-- [End Game Gear](https://modrinth.com/mod/end-game-gear) - Early Part of the Forged in Steel Update
-- [End Game Fishing](https://modrinth.com/mod/end-game-fishing) - Early Part of the Forged in Steel Update
-- [End Game Totems](https://modrinth.com/mod/end-game-totems) - Early Part of the Forged in Steel Update
-- [Enchant Overhaul](https://modrinth.com/mod/ntys-enchantment-overhaul) - Early Part of the Forged in Steel Update
+- [Advanced Tools](https://modrinth.com/mod/advanced-tools) – early part of the *Forged in Steel* update
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) – early part of the *Forged in Steel* update
+- Animal Garden:
+  - [Sugar Glider](https://modrinth.com/mod/animal-garden-sugar-glider)
+  - [Fennec Fox](https://modrinth.com/mod/animal-garden-fennec-fox)
+- [Pufferfish's Skills](https://modrinth.com/mod/skills) – first skill trees for future progression updates
+- [End Game Gear](https://modrinth.com/mod/end-game-gear) – early part of the *Forged in Steel* update
+- [End Game Fishing](https://modrinth.com/mod/end-game-fishing) – early part of the *Forged in Steel* update
+- [End Game Totems](https://modrinth.com/mod/end-game-totems) – early part of the *Forged in Steel* update
+- [Enchant Overhaul](https://modrinth.com/mod/ntys-enchantment-overhaul) – early part of the *Forged in Steel* update
+
+**Updated:**
+<details>
+  <summary>Click Here</summary>
+
+  **General & Libraries**
+  - [Architectury](https://modrinth.com/mod/architectury-api)
+  - [Balm](https://modrinth.com/mod/balm)
+  - [Cloth Config](https://modrinth.com/mod/cloth-config)
+  - [CreativeCore](https://modrinth.com/mod/creativecore)
+  - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+  - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+  - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+  - [owo-lib](https://modrinth.com/mod/owo-lib)
+  - [Yet Another Config Lib](https://modrinth.com/mod/yacl)
+
+  **Performance & Rendering**
+  - [Sodium](https://modrinth.com/mod/sodium)
+  - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+  - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+  - [Lithium](https://modrinth.com/mod/lithium)
+  - [Entity Culling](https://modrinth.com/mod/entityculling)
+  - [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
+  - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+
+  **UI / QoL**
+  - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+  - [Just Enough Resources (JER)](https://modrinth.com/mod/jeresources)
+  - [Just Enough Professions (JEP)](https://modrinth.com/mod/just-enough-professions)
+  - [Jade](https://modrinth.com/mod/jade)
+  - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+  - [Inventory Essentials](https://modrinth.com/mod/inventory-essentials)
+  - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+  - [FancyMenu](https://modrinth.com/mod/fancymenu)
+  - [Better Advancements](https://modrinth.com/mod/better-advancements)
+
+  **World & Structures**
+  - [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
+  - [Incendium](https://modrinth.com/mod/incendium)
+  - [Nullscape](https://modrinth.com/mod/nullscape)
+  - [Biomes O’ Plenty](https://modrinth.com/mod/biomes-o-plenty)
+  - [TerraBlender](https://modrinth.com/mod/terrablender)
+
+  **Gameplay Systems**
+  - [Tough As Nails](https://modrinth.com/mod/tough-as-nails)
+  - [Waystones](https://modrinth.com/mod/waystones)
+  - [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims)
+  - [Easy Villagers](https://modrinth.com/mod/easy-villagers)
+  - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
+  - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
+  - [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage)
+  - [Energized Power](https://modrinth.com/mod/energized-power)
+
+  **Decorative & Building**
+  - [Connected Glass](https://modrinth.com/mod/connectedglass)
+  - [Rechiseled](https://modrinth.com/mod/rechiseled)
+  - [Stoneworks](https://modrinth.com/mod/stoneworks)
+  - [Diagonal Blocks](https://modrinth.com/mod/diagonal-fences)
+  - [Refurbished Furniture](https://modrinth.com/mod/refurbished-furniture)
+  - [More Chest Variants](https://modrinth.com/mod/more-chest-variants)
+  - [Block Variants](https://modrinth.com/mod/block-variants)
+
+  **Animals & Mobs**
+  - [Animal Garden](https://modrinth.com/mod/animal-garden)
+  - [Sheep Variety](https://modrinth.com/mod/sheep-variety)
+  - [Ender Cat](https://modrinth.com/mod/ender-cat)
+
+  **Miscellaneous**
+  - [WorldEdit](https://modrinth.com/mod/worldedit)
+  - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+  - [Xaero’s Minimap](https://modrinth.com/mod/xaeros-minimap)
+  - [Xaero’s World Map](https://modrinth.com/mod/xaeros-world-map)
+  - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+  - [Useful Food Reborn](https://modrinth.com/mod/useful-food-reborn)
+
+</details>
+
+---
 
 ### Server
+- Updated all server-side mods to **1.21.10-compatible versions**
+- Synced library and dependency versions with client
+- No gameplay or configuration changes yet
 
+---
 
 ### NOTE
-All mods that are added for future updates are not configured at the moment!
+All mods that are added for future updates are **not configured at the moment**.
+Balancing, progression integration, recipes and skill interactions will follow in upcoming releases.
+
 
 ---
 
